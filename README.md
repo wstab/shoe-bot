@@ -20,7 +20,7 @@ python -m pip install pytz
 * Get your Discord bot token from Discord Developer tools
 * Clone the repo
 ```
-git clone https://github.com/wstab/wstab-shoe-bot.git
+git clone https://github.com/wstab/shoe-bot.git
 ```
 * Enter your bot token in main.py
 ```
