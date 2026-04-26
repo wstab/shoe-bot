@@ -1,6 +1,6 @@
 # Shoe Release Discord Bot
 
-This bot allows a Discord user to request an update on any future Nike sneaker releases.
+This is a Discord bot that monitors Nike product releases and sends real-time updates to a Discord server. It works by scraping Nike’s website for upcoming or newly released sneakers and formatting that data into readable alerts.
 
 ## Getting Started
 
@@ -30,6 +30,9 @@ BOT_TOKEN = 'ENTER YOUR TOKEN'
 ### Executing program
 
 * Run Program
+  ```
+  python main.py
+  ```
 * Go to server with bot and type slash command
 
   ![image](https://github.com/user-attachments/assets/5ac46ba5-3058-4bd9-8d0f-0addb4df62cb)
